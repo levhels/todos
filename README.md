@@ -1,3 +1,7 @@
+# Simple todo app on React and Vite 
+
+See working app here: https://levhels.github.io/todoapp/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
